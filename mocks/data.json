@@ -1,0 +1,215 @@
+{
+  "categories":[
+    {
+      "id": 1,
+      "name":"Videojuegos"
+    },
+    {
+      "id": 2,
+      "name":"Libros"
+    }
+  ],
+  "products": [
+    {
+      "product_id" : 1,
+      "stock" : 50,
+      "name": "Super Mario 3D All-Stars",
+      "description":"Tres de las aventuras más míticas de los juegos de plataformas en tres dimensiones protagonizados por Mario reunidos en una colección especial.",
+      "price": 50.00,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/81tkL0RYLQL._AC_SL1500_.jpg"
+    },
+    {
+      "product_id": 2,
+      "stock" : 5,
+      "name": "TARJETA PSN CARD 10€ | Código de descarga PSN - Cuenta española",
+      "description":"Agrega fondos con facilidad a tu monedero de PlayStation Network sin necesidad de una tarjeta de crédito. Lo único que tienes que hacer para comenzar a disfrutar de fantásticos contenidos descargables es adquirir una PlayStation Network Card e introducir el código de 12 dígitos. A partir de entonces, podrás descargarte contenidos para PS3, PS4 y PS Vita desde PlayStation Store, una gran variedad de artículos en PlayStation Home e incluso canciones desde SingStore. Condiciones de PlayStation Network Cards.",
+      "price": 10.00,
+      "ofert": false,
+      "category": 1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/41aJlloRaZL._AC_.jpg"
+    },
+    {
+      "product_id": 3,
+      "stock" : 5,
+      "name": "Ring Fit Adventure (Nintendo Switch)",
+      "description":"Ring Fit Adventure toma el concepto de un juego de aventuras y le da una vuelta de tuerca por medio de sentadillas, ejercicios de presión y flexiones, con el objetivo de superar desafíos diseñados para diferentes complexiones y niveles de fitness.",
+      "price": 69.99,
+      "ofert": false,
+      "category": 1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/71qN8WtQw-L._AC_SL1500_.jpg"
+    },
+    {
+      "product_id" : 4,
+      "stock" : 6,
+      "name": "Animal Crossing: New Horizons (Nintendo Switch)",
+      "description":"Personaliza tu casa y a tu personaje, decora el paisaje (¡hasta con muebles, si quieres!) y ve creando poco a poco tu propia isla paradisíaca.",
+      "price": 47.00,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/71sT6IkxThL._AC_SL1000_.jpg"
+    },
+    {
+      "product_id" : 5,
+      "stock" : 5,
+      "name": "Minecraft - Nintendo Switch",
+      "description":"Minecraft es un juego de simulación y creación con gráficos pixelados. Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar.",
+      "price": 27.56,
+      "ofert": false,
+      "category": 1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/91K%2B4IJ2%2BZL._AC_SL1500_.jpg"
+    },
+    {
+      "product_id" : 6,
+      "stock" : 5,
+      "name": "Nintendo eShop Tarjeta de regalo 15 EUR - Código de descarga",
+      "description":"Dale una alegría a tus amigos y familiares con una Nintendo eShop Card, ¡o date un capricho! Es el regalo ideal para aquellos que disfrutan jugando a videojuegos. La Nintendo eShop Card es una alternativa rápida, fácil y segura a las tarjetas de crédito a la hora de comprar juegos y otros contenidos en Nintendo eShop o en el sitio web oficial de Nintendo.",
+      "price": 15.00,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/71U1R-V8%2BdL._AC_SL1500_.jpg"
+    },
+    {
+      "product_id" : 7,
+      "stock" : 5,
+      "name": "Nintendo Switch - Consola Estándar, Color Azul Neón/Rojo Neón (Modelo 2019)",
+      "description":"res modos de juego: 1- Modo televisor (Reune a todos ante una pantalla y disfruta del juego en compañía. Coloca la consola en la base de la Nintendo Swith para jugar en alta definición en el televisor) 2- Modo sobremesa (Comparte la pantalla, comparte la diversión. Abre el soporte de la consola para compartir la pantalla y pasarlo en grande con juegos multijugador) 3 - Modo portatil (Lleva contigo una espléndida pantalla allá donde vayas. Juega con los mandos Joy-Con encajados en la consola y llévatela donde quieras)",
+      "price": 319.00,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/61Ds2tygNiL._AC_SL1000_.jpg"
+    },
+    {
+      "product_id" : 8,
+      "stock" : 5,
+      "name": "Logitech G432 Auriculares Gaming con Cable",
+      "description":"Transductores de Audio de 50 mm: disfruta de una experiencia de gaming inmersiva y cinemática gracias al sonido detallado producido por los grandes transductores de 50 mm. DTS Headphone:X 2.0: sonido envolvente que va más allá de los 7.1 canales para detectar enemigos por todos lados para una nitidez que puede significar la diferencia entre la victoria y la derrota",
+      "price": 49.99,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/71Ytf3okj%2BL._AC_SL1500_.jpg"
+    },
+    {
+      "product_id" : 9,
+      "stock" : 5,
+      "name": "Sony - Dualshock 4 V2 Mando Inalámbrico, Color Rojo (Magma Red) (PS4)",
+      "description":"Controlador inalámbrico Dualshock 4. Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac. Es de la marca Sony. Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo. Comunicación inalámbrica: Bluetooth Ver2.1+EDR",
+      "price": 54.99,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/81B1h7W5NLL._AC_SL1500_.jpg"
+    },
+    {
+      "product_id" : 10,
+      "stock" : 5,
+      "name": "Auriculares Gaming PS4,Cascos Gaming de Mac Estéreo con Micrófono",
+      "description":"【Alta Calidad Auriculares Gaming】Mic Stereo Bass LED Light para gaming,Las luces LED están diseñados evidentes en los orejeros y el micrófono, destacando la atmósfera del juego (USB solo soporta la luz de LED).La diadema puede regularse para acomodarse a los todos tamaños de cabeza.",
+      "price": 18.99,
+      "ofert": false,
+      "category":1,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/61ipQjx1FUL._AC_SL1050_.jpg"
+    },
+
+    {
+      "product_id" : 11,
+      "stock" : 5,
+      "name": "Las tinieblas y el alba",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 23.65,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/91df3LR0uiL.jpg"
+    },
+    {
+      "product_id" : 12,
+      "stock" : 5,
+      "name": "¿Por qué no nos queremos? ",
+      "description":"España ha cambiado muy positivamente en los últimos cuarenta años. Por más que haya recalcitrantes para quienes cualquier tiempo pasado fue mejor, la realidad es justo la contraria: vamos camino de ser los que más vivimos, y con una excelente calidad de vida, tenemos un idioma común que hablan 600 millones.",
+      "price": 18.90,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/91ExcsNjwKL.jpg"
+    },
+    {
+      "product_id" : 13,
+      "stock" : 5,
+      "name": "Cocina comida real: Más de 100 recetas para realfooders (Divulgación)",
+      "description":"Carlos Ríos ha conseguido que miles de personas salgan de Matrix y se apunten al movimiento Realfooding para eliminar definitivamente de su dieta el consumo de ultraprocesados y vuelvan a comer comida real.",
+      "price": 17.95,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/81JPWMCsI-L.jpg"
+    },
+    {
+      "product_id" : 14,
+      "stock" : 5,
+      "name": "Advantage Bachillerato 2",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 32.25,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/21mcBq7s7SL._BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 15,
+      "stock" : 5,
+      "name": "ADVANTAGE 1ºNB ST 17",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 32.25,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/617ekxX8Y5L._SX354_BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 16,
+      "stock" : 5,
+      "name": "NEW ENGLISH IN USE 3ºESO WB 16 BURIN33ESO",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 19.80,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/414JJpG8A5L._SX325_BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 17,
+      "stock" : 5,
+      "name": "Mosaic 2. Workbook - 9780194666251",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 22.80,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/4162Efwi63L._SX345_BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 18,
+      "stock" : 5,
+      "name": "NEW ENGLISH IN USE 2ºESO WB 16 BURIN32ESO",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 19.80,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/51AmKPP7ogL._SX395_BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 19,
+      "stock" : 5,
+      "name": "Spectrum 2. Workbook - 9780194852296",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 22.80,
+      "ofert": false,
+      "category":2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/51tsuONXG6L._SX357_BO1,204,203,200_.jpg"
+    },
+    {
+      "product_id" : 20,
+      "stock" : 5,
+      "name": "NEW ENGLISH IN USE 4ºESO WB 16 BURIN34ESO",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": 19.90,
+      "ofert": false,
+      "category": 2,
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/41FPI3AjlpL._SX327_BO1,204,203,200_.jpg"
+    }
+  ]
+}
